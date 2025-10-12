@@ -63,15 +63,13 @@ END
    1203:14                         c4:1207
 
 #### Manual Calculations
+<img width="1196" height="1065" alt="image" src="https://github.com/user-attachments/assets/cfd77fd9-0a32-467f-9072-fcc1c9bb51b1" />
 
-https://github.com/user-attachments/assets/6e3dce5c-6194-45e2-b87a-ec9f6ef4984c
+<img width="645" height="416" alt="image" src="https://github.com/user-attachments/assets/f03fc1bd-4c88-4611-a47f-9be60f884a4e" />
 
-<img width="549" height="431" alt="image" src="https://github.com/user-attachments/assets/dc075458-6a36-42cb-8779-c1733034882a" />
-
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="549" height="431" alt="image" src="https://github.com/user-attachments/assets/439de99c-a005-4030-b21e-001d25ead317" />
+<img width="631" height="384" alt="image" src="https://github.com/user-attachments/assets/3f656c69-1b76-4c2f-98e7-3dc44a9061ef" />
 
 ## 2. SUBTRACTION
 
