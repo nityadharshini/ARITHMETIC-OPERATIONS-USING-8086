@@ -55,11 +55,13 @@ END
 ```
 
 #### Output Table
-  MEMORY LOCATION (INPUT)|	MEMORY LOCATION (OUTPUT)
-1200:12                  |	1204:24
-1201:34                  |	1205:68
-1202:12	                |
-1203:34	                |     
+ MEMORY LOCATION (INPUT)|	MEMORY LOCATION (OUTPUT)
+ 1200:12                 | 1204:24
+ 1201:34                 | 1205:68
+ 1202:12                 |  
+ 1203:34                 |
+ 
+
 
 #### Manual Calculations
 ![WhatsApp Image 2025-11-11 at 19 23 47_023a2e7f](https://github.com/user-attachments/assets/d0505a62-dc55-4846-9101-fc07dc914367)
@@ -107,11 +109,12 @@ END
 
 
 #### Output Table
-MEMORY LOCATION (INPUT)|	MEMORY LOCATION (OUTPUT)
-1200:12                |	1204:00
-1201:34                |	1205:00
-1202:12	              |
-1203:34                |
+ MEMORY LOCATION (INPUT)|	MEMORY LOCATION (OUTPUT)
+ 
+ 1200:12                |	1204:00
+ 1201:34                |	1205:00
+ 1202:12	              |
+ 1203:34                |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-11-11 at 19 30 28_3688626d](https://github.com/user-attachments/assets/62e79901-b56b-4f1c-b881-b214a84a7abd)
@@ -161,10 +164,11 @@ END
 
 #### Output Table
 MEMORY LOCATION (INPUT)|	MEMORY LOCATION (OUTPUT)
-1200:12                |	1204:44
-1201:34	              |   1205:51
-1202:12                |	1206:97
-1203:34                |	1207:0A
+
+ 1200:12                |	1204:44
+ 1201:34	              |   1205:51
+ 1202:12                |	1206:97
+ 1203:34                |	1207:0A
 
 #### Manual Calculations
 
@@ -210,10 +214,11 @@ END
 
 #### Output Table
 MEMORY LOCATION (INPUT)|	MEMORY LOCATION (OUTPUT)
-1200:12	              | 1204:01
-1201:34	              | 1205:00
-1202:12	              | 1206:00
-1203:34	              |
+
+ 1200:12	              | 1204:01
+ 1201:34	              | 1205:00
+ 1202:12	              | 1206:00
+ 1203:34	              |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-11-11 at 19 36 10_9e9d3e0b](https://github.com/user-attachments/assets/0234e17e-20eb-4a26-9456-7311a096ca89)
